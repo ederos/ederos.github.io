@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background: -webkit-linear-gradient(top, #eb4688, #dd5748);
+  background: -o-linear-gradient(top, #eb4688, #dd5748);
+  background: -moz-linear-gradient(top, #eb4688, #dd5748);
+  background: linear-gradient(top, #eb4688, #dd5748);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.txt-disp {
+  color: whitesmoke;
+  text-align: center;
+  font-size: smaller;
+}
